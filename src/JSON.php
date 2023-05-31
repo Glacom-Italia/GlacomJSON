@@ -1,6 +1,6 @@
 <?php
 
-namespace Stepanenko3\NovaJson;
+namespace Glacom\NovaJson;
 
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Http\Resources\MergeValue;
@@ -12,7 +12,7 @@ use Laravel\Nova\Fields\Heading;
 use Laravel\Nova\Fields\Hidden;
 use Laravel\Nova\Http\Requests\NovaRequest;
 use Laravel\Nova\Makeable;
-use Stepanenko3\NovaJson\Exceptions\AttributeCast;
+use Glacom\NovaJson\Exceptions\AttributeCast;
 
 class JSON extends MergeValue
 {
