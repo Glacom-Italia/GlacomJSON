@@ -37,7 +37,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Stepanenko3\\NovaJson\\": "./src"
+            "Glacom\\NovaJson\\": "./src"
         }
     },
     "minimum-stability": "dev",
