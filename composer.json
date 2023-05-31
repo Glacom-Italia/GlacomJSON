@@ -1,6 +1,6 @@
 {
     "name": "glacom/nova-json",
-    "version": "1.0",
+    "version": "1.1",
     "description": "Nova json field to spread a json column throughout multiple fields.",
     "type": "package",
     "license": "MIT",
